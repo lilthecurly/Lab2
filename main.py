@@ -1,7 +1,4 @@
 import requests
-import pandas as pd
-import csv
-from datetime import datetime, timedelta
 
 
 def get_usd_exchange_rate(date):
